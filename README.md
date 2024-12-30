@@ -9,15 +9,13 @@
 
 - 🔭 I’m currently working on [Algolisted](https://algolisted.com/)
 
-- 🌱 I’m currently learning **NestJS and Solidity**
-
 - 👯 I’m looking to collaborate on [Maylem](https://github.com/IAlgorithmia/Maylem/)
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-tawny-one-12.vercel.app/](https://my-portfolio-tawny-one-12.vercel.app/)
 
 - 📝 I regularly write articles on [https://x.com/VaibhavSh2k3](https://x.com/VaibhavSh2k3)
 
-- 💬 Ask me about **NextJS, SQL, CPP**
+- 💬 Ask me about **Angular, SpringBoot and ML**
 
 - 📫 How to reach me **vaibhavsh.2k3@gmail.com**
 
